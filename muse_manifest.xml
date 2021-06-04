@@ -1,0 +1,258 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alkebulan.com" resolutions="1x" timestamp="1622831320068">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3785621664" ref="team:index:mambo-mbizule:mhlangeni-chiiko:about-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="team:index:mambo-mbizule:mhlangeni-chiiko:about-us"/>
+    <file name="team.css" crc="395393460" ref="team"/>
+    <file name="nomq_team.css" crc="3951971444" ref="team"/>
+    <file name="index.css" crc="333815714" ref="index"/>
+    <file name="nomq_index.css" crc="239340585" ref="index"/>
+    <file name="mambo-mbizule.css" crc="57594850" ref="mambo-mbizule"/>
+    <file name="nomq_mambo-mbizule.css" crc="3832978980" ref="mambo-mbizule"/>
+    <file name="mhlangeni-chiiko.css" crc="3831256132" ref="mhlangeni-chiiko"/>
+    <file name="nomq_mhlangeni-chiiko.css" crc="4194425339" ref="mhlangeni-chiiko"/>
+    <file name="about-us.css" crc="4097761238" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="4029061324" ref="about-us"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fa-brands-400.woff" crc="367239046"/>
+    <file name="fa-brands-400.eot" crc="4034502842"/>
+    <file name="fa-brands-400.svg" crc="267757290"/>
+    <file name="fa-solid-900.woff" crc="3940956581"/>
+    <file name="fa-solid-900.eot" crc="90051872"/>
+    <file name="fa-solid-900.svg" crc="529533036"/>
+    <file name="icofont.woff" crc="4099329415"/>
+    <file name="icofont.eot" crc="182114138"/>
+    <file name="icofont.svg" crc="4294179840"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="museutils.js" crc="340535759" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about-us:team"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about-us"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:about-us"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:about-us"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:about-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="require.js" crc="7928878" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+  </folder>
+  <folder name="images">
+    <file name="alkebulan.gif" crc="217397043" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="pexels-chris-f-3832475.jpg" crc="4234516508" ref="index:about-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="img-20210601-wa0065.jpg" crc="3819496013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:team:mhlangeni-chiiko:mambo-mbizule"/>
+    <file name="img-20210601-wa0066.jpg" crc="251268657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20210601-wa0068.jpg" crc="3797426773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20210601-wa0070.jpg" crc="495448779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:about-us"/>
+    <file name="pexels-travis-blessing-1363876.jpg" crc="15405086" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-chris-f-3832475-u4844-fr.jpg" crc="530551824" ref="index:about-us"/>
+    <file name="pexels-travis-blessing-1363876-u4828-fr.jpg" crc="239942005" ref="index"/>
+    <file name="pexels-chris-f-3832475-u4844-fr2.jpg" crc="4084409989" ref="index"/>
+    <file name="pexels-travis-blessing-1363876-u4828-fr2.jpg" crc="56794140" ref="index"/>
+    <file name="pexels-chris-f-3832475-u4844-fr3.jpg" crc="28542328" ref="index"/>
+    <file name="pexels-travis-blessing-1363876-u4828-fr3.jpg" crc="460585012" ref="index"/>
+    <file name="pexels-chris-f-3832475-u4844-fr4.jpg" crc="3780492289" ref="index"/>
+    <file name="pexels-travis-blessing-1363876-u4828-fr4.jpg" crc="3763668089" ref="index"/>
+    <file name="pexels-chris-f-3832475-u4844-fr5.jpg" crc="348540862" ref="index"/>
+    <file name="pexels-travis-blessing-1363876-u4828-fr5.jpg" crc="439578961" ref="index"/>
+    <file name="img-20210601-wa0078.jpg" crc="457606795" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="photo from mhlangeni chiiko🇿🇲 (13).jpg" crc="221949528" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="screenshot_20210602-152026_instagram.jpg" crc="403975612" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="screenshot_20210602-152039_instagram.jpg" crc="3935582689" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="screenshot_20210602-152046_instagram.jpg" crc="4073228974" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="photo from mhlangeni chiiko.jpg" crc="221949528" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pexels-chris-f-3832475-u1109-fr.jpg" crc="23006512" ref="about-us"/>
+    <file name="pexels-chris-f-3832475-u1109-fr2.jpg" crc="4122487452" ref="about-us"/>
+    <file name="mhlageni.gif" crc="4084752736" ref="team:mhlangeni-chiiko">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="mhlangeni-chiiko" alt=""/>
+      <caption webpage="mhlangeni-chiiko" alt=""/>
+      <caption webpage="mhlangeni-chiiko" alt=""/>
+      <caption webpage="mhlangeni-chiiko" alt=""/>
+      <caption webpage="mhlangeni-chiiko" alt=""/>
+      <caption webpage="mhlangeni-chiiko" alt=""/>
+    </file>
+    <file name="mambo.gif" crc="3967377169" ref="team:mambo-mbizule">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="mambo-mbizule" alt=""/>
+      <caption webpage="mambo-mbizule" alt=""/>
+      <caption webpage="mambo-mbizule" alt=""/>
+      <caption webpage="mambo-mbizule" alt=""/>
+      <caption webpage="mambo-mbizule" alt=""/>
+      <caption webpage="mambo-mbizule" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4293243772" seo="true" mt="1622831240219" redirect="true"/>
+  <file name="about-us.html" crc="323774904" seo="true" mt="1622830762742" redirect="true"/>
+  <file name="team.html" crc="4114569730" seo="true" mt="1622747176917" redirect="true"/>
+  <file name="mhlangeni-chiiko.html" crc="42083895" seo="true" mt="1622804116885" redirect="true"/>
+  <file name="mambo-mbizule.html" crc="170465092" seo="true" mt="1622804250261" redirect="true"/>
+</manifest>
